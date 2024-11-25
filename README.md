@@ -1,3 +1,20 @@
+Decentralized Storage Smart Contract System
+## Description
+A Solidity-based smart contract system that implements decentralized storage functionality on EVM-compatible blockchains. Built with Foundry framework, this contract enables secure storage and retrieval of user data with efficient mapping structures.
+## Features
+Store and retrieve numerical values
+Add person records with associated data
+Mapping system for quick data lookups
+Dynamic array implementation for data storage
+Gas-optimized view functions
+## Technologies Used
+Solidity 0.8.25
+Foundry Framework
+EVM Compatible
+
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -8,6 +25,8 @@ Foundry consists of:
 -   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
 -   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
 -   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+
+
 
 ## Documentation
 
